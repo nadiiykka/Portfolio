@@ -27,7 +27,7 @@ body {
 
 .container .left_Side {
     position: relative;
-    background: rgb(187, 165, 169);
+    background: rgb(175, 164, 166);
     padding: 40px;
     color: #333;
 }
@@ -100,7 +100,7 @@ body {
     display: inline-block;
     width: 30px;
     font-size: 18px;
-    color: #a86767;
+    color: #6d495a;
 }
 
 .contactInfo ul li span {
@@ -114,7 +114,7 @@ body {
 }
 
 .contactInfo.education h5 {
-    color: #a86767;
+    color: #6d495a;
     font-weight: 500;
 }
 
@@ -134,7 +134,7 @@ body {
     position: relative;
     width: 100%;
     height: 6px;
-    background: #081921;
+    background: #fff;
     display: block;
     margin-top: 5px;
 }
@@ -144,7 +144,7 @@ body {
     top: 0;
     left: 0;
     height: 100%;
-    background: #a86767;
+    background: #6d495a;
 }
 
 .container .right_Side {
@@ -202,7 +202,7 @@ body {
     top: 0;
     left: 0;
     height: 100%;
-    background: #a86767;
+    background: #6d495a;
 }
 
 .skills .box ul 
@@ -227,7 +227,7 @@ body {
 }
 
 .interest ul li .fa {
-    color: #848c99;
+    color: #6d495a;
     font-size: 18px;
     width: 30px;
 }
