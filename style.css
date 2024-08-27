@@ -133,10 +133,10 @@ body {
 .contactInfo.language .percent {
     position: relative;
     width: 100%;
-    height: 6px;
-    background: #fff;
+    height: 7px;
+    background: #ddd;
     display: block;
-    margin-top: 5px;
+    margin-top: 8px;
 }
 
 .contactInfo.language .percent div {
@@ -186,7 +186,7 @@ body {
 
 .skills .box h4 {
     text-transform: uppercase;
-    color: #848c99;
+    color: #6d495a;
     font-weight: 600;
 }
 
@@ -194,7 +194,7 @@ body {
     position: relative;
     width: 100%;
     height: 10px;
-    background: #848c99;
+    background: #ddd;
 }
 
 .skills .box .percent div {
@@ -205,8 +205,7 @@ body {
     background: #6d495a;
 }
 
-.skills .box ul 
-{
+.skills .box ul {
     padding-left: 10px;
     width: 1000px;
     padding: 5px;
